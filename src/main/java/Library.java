@@ -7,6 +7,6 @@ public class Library {
     }
 
     public String welcome() {
-        return "Super Duper!!!"
+        return "Super Duper!!!";
     }
 }
