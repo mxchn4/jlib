@@ -15,6 +15,6 @@ public class Library {
     }
 
     public String featureSuper() {
-        return "Super Feature!";
+        return "Super Feature!!";
     }
 }
