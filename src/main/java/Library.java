@@ -13,4 +13,8 @@ public class Library {
     public String welcomeHome() {
         return "Welcome Home!!!";
     }
+
+    public String featureSuper() {
+        return "Super Feature!";
+    }
 }
