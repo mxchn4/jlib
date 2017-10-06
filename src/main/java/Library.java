@@ -5,4 +5,16 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+
+    public String welcome() {
+        return "Super Duper!!!";
+    }
+
+    public String welcomeHome() {
+        return "Welcome Home!!!";
+    }
+
+    public String featureSuper() {
+        return "Super Feature!";
+    }
 }
