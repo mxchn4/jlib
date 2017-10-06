@@ -9,4 +9,8 @@ public class Library {
     public String welcome() {
         return "Super Duper!!!";
     }
+
+    public String welcomeHome() {
+        return "Welcome Home!!!";
+    }
 }
